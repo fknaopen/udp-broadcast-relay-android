@@ -12,8 +12,8 @@ Get Started
 -------------------------------------------------------------
 Get the source.
 
-    git clone git://github.com/fknaopen/udp_bcast_relay.git
-    cp -pr udp_bcast_relay ANDROID_BUILD_ROOT/external/.
+    git://github.com/fknaopen/udp-broadcast-relay-android.git
+    cp -pr udp-broadcast-relay-android ANDROID_BUILD_ROOT/external/udp_bcast_relay
 
 Make modules.
 
