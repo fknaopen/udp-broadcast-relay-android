@@ -18,7 +18,6 @@ Get the source.
 Make modules.
 
     cd  ANDROID_BUILD_ROOT/.
-    source build/envsetup.sh
     cd  ANDROID_BUILD_ROOT/external/.
     mm
 
